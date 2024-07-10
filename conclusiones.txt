@@ -1,0 +1,8 @@
+# conclusiones.txt
+
+## Hallazgos y Conclusiones
+
+- Las pruebas de signup y login se ejecutaron correctamente.
+- La creación de usuarios nuevos funciona según lo esperado.
+- El intento de crear un usuario ya existente devuelve el mensaje de error esperado.
+- Las pruebas de login con credenciales correctas e incorrectas también respondieron adecuadamente.
